@@ -8,9 +8,9 @@
 from telebot import TeleBot
 
 # config
-TOKEN = '5592542597:AAFZyzDCL8wNPlYNzR8fzh8wxAS0tVkxUn4'
+TOKEN = '7893848371:AAHHL3GBp0mMJsdio4LybsIHlAGLKkFrBq8'
 ADMINS = [
-    '1215864830'
+    '1416841137'
 ]
 
 # setup
