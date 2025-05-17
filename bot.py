@@ -5,7 +5,7 @@ from telebot import TeleBot
 # config
 import os
 
-TOKEN = os.environ.get("BOT_TOKEN", "your-default-token-if-any")
+TOKEN = os.environ.get("BOT_TOKEN", "7893848371:AAHHL3GBp0mMJsdio4LybsIHlAGLKkFrBq8")
 ADMINS = [int(id) for id in os.environ.get("ADMINS", "1416841137").split(',')]
 
 # setup
